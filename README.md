@@ -1,9 +1,7 @@
-## Hi i'm Mogura (aka Kei)
-- 🔭 I’m currently working on Software Engineering, Video Editing, Designing, Sales/Management.
-- Currently second-year college student (Majoring CS)
-
 # 💫 About Me:
-## Hi i'm Mogura (aka Kei)<br>- 🔭 I’m currently working on Software Engineering, Video Editing, Designing, Sales/Management.<br>- Currently second-year college student (Majoring CS)
+# Hi i'm Mogura (aka Kei)<br>
+# - 🔭 I’m currently working on Software Engineering, Video Editing, Designing, Sales/Management.
+# - Currently second-year college student (Majoring CS)
 
 
 # 💻 Tech Stack:
